@@ -61,7 +61,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>DevOps-Automation-1</finalName>
 	</build>
 
 </project>
